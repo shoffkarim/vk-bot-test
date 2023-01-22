@@ -1,0 +1,17 @@
+{
+  "name": "vk-bot-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vk-io/hear": "^1.1.0",
+    "fs": "*",
+    "vk-io": "^4.7.0",
+    "vk-io-question": "^3.1.1"
+  }
+}
